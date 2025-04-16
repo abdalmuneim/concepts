@@ -1,4 +1,4 @@
-# Flutter Concepts 🚀
+## Flutter Concepts 🚀
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev)
@@ -9,7 +9,6 @@ A comprehensive collection of Flutter and Dart concepts, demonstrating modern de
 
 - [Features](#features)
 - [Key Concepts](#key-concepts)
-- [Getting Started](#getting-started)
 
 ## ✨ Features
 
