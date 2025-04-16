@@ -1,17 +1,17 @@
 ## Concepts
 
-- Hooks and StatefulWidget
-- Flutter Form Builder
-- Future, Stream, and Isolate
-- Auto Cancel for API
-- Static and Instance Variable
-- .BSS sigma
-- Hugging Consumer
-- Pattern Matching and Switching
-- Abstract Class and Sealed Class
-- Record Pattern Matching
-- State Trees
-- Rendering Flutter Web
-- How to Handle Late Final Initialization
-- Form Manager
-- Hook Consumer / Hup Consumer
+- Understanding the differences between Hooks and StatefulWidget.
+- Exploring the Flutter Form Builder for creating dynamic forms.
+- Working with Future, Stream, and Isolate for asynchronous programming.
+- Implementing auto-cancel mechanisms for API calls.
+- Differentiating between static and instance variables in Dart.
+- Learning about the .BSS sigma concept.
+- Utilizing Hugging Consumer for state management.
+- Applying pattern matching and switching techniques.
+- Comparing abstract classes and sealed classes in Dart.
+- Using record pattern matching for structured data.
+- Managing state trees effectively in Flutter applications.
+- Optimizing rendering for Flutter Web applications.
+- Handling late final initialization in Dart.
+- Building a robust form manager for Flutter apps.
+- Exploring the use of Hook Consumer and Hup Consumer for state management.
